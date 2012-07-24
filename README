@@ -1,0 +1,7 @@
+PHP library for image compression, uses PunyPNG.com API <http://www.punypng.com>
+Supports PNG, JPEG and GIF images
+Works on local files and urls
+Can be used in single file and batch modes
+More info on PunyPNG API <http://www.punypng.com/api>
+
+Copyright (C) 2012  Mark Rolich
